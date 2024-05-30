@@ -1,22 +1,23 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Chloe is the *BEST*"
 description: "meta description"
 date: 2022-04-07T05:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
-draft: false
+authors: ["Mama"]
+tags: ["chloe", "MLP"]
+draft: true
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Chloë is the best person in the world!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Chloë is super smart, adores Stray Kids.... I think Felix is the best!
+She loves watching My Little Pony... Who is your favourite fillie?
 
-## Creative Design
+## Best Pony Design
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> I know all the songs by heart! The original My Little Pony movie is one to rewatch and I found out that Equestria Girls are all streamed via Stan!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!

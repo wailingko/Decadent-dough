@@ -7,7 +7,7 @@
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
-    "logo_height": "34",
+    "logo_height": "150",
     "logo_text": "Bookworm Light"
   },
 
@@ -28,8 +28,8 @@
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "Home in Melbourne, Australia",
+    "email": "info@decadentdoughdiaries.com",
+    "phone": "Don't call, just send a message"
   }
 }

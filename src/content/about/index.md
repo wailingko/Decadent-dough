@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "I’m Wai Ling, A Fulltime Parent and Learning Supervisor and passionate about project delivery. Currently an aspiring Home Baker"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
@@ -7,17 +7,15 @@ draft: false
 what_i_do:
   title: "What I Do"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Fulltime parent"
+    description: "I am a Fulltime parent and learning supervisor of a School Can't kid."
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "Explorer"
+    description: "I am passionate about Exploring the world anytime I can."
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Decadent Dough Baker"
+    description: "I am a passionate home baker. I love experimenting with and trying out different recipes at home."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+A passionate home baker who is dabbling around in code and exploring social media to find a delicious recipes to experiment with. How to make sourdough should be crunchy on the outside, even crumb on the inside... Shokupan just needs to be fluffy. To keep track of what I have tried, this website is to write up about the experience after trying a recipe... Decadent Dough Diaries

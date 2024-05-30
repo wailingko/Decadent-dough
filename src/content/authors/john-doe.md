@@ -1,5 +1,5 @@
 ---
-title: John Doe
+title: Wai Ling Ko
 image: /images/authors/john-doe.jpg
 description: this is meta description
 social:
