@@ -1,6 +1,6 @@
 ---
 title: Wai Ling Ko
-image: /images/authors/john-doe.jpg
+image: /images/authors/wai ling ko.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
