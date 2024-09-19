@@ -99,6 +99,7 @@ Besides developing beautifully designed and blazing-fast themes, we help busines
 If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://themefisher.com/contact).
 
 
-## Eignen Notes
-// originele kleur #01AD9F
+## Eigen Notes
+// originele kleur #01AD9F, footer kleur is theme_dark “#152035”
+
 
