@@ -1,5 +1,5 @@
 ---
-title: "Making a fluffy Japanese shokupan in 3.5 hours"
+title: "A regular Japanese Shokupan"
 description: "meta description"
 date: 2024-09-01T00:00:00Z
 image: "/images/posts/01_Shokupan.jpeg"
