@@ -1,4 +1,4 @@
 ---
 title: "Contact"
-draft: true
+draft: false
 ---

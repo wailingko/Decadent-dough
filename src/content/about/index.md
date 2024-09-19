@@ -19,4 +19,4 @@ what_i_do:
 
 ---
 
-A passionate Dough lover who is continuously exploring social media to discover delicious baking recipes. I have a slight preference for savoury bakes but somehow end up making lots of sweets that I share with others. I have created this blog to keep track of what I have tried. Enjoy the Decadent Dough Diaries!
+A Dough Lover who is continuously exploring social media to discover delicious baking recipes. I have a slight preference for savoury bakes but somehow end up making lots of sweets that I share with others. I have created this blog to keep track of what I have tried. Enjoy the Decadent Dough Diaries!
