@@ -5,7 +5,7 @@ date: 2024-08-25T00:00:00Z
 image: "/images/posts/02_Nama_Shokupan.jpeg"
 categories: ["bread"]
 authors: ["Wai Ling Ko"]
-tags: ["bread", "shokupan"]
+tags: ["bread", "shokupan", "sweet"]
 draft: false
 ---
 

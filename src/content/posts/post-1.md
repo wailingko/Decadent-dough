@@ -5,7 +5,7 @@ date: 2024-09-01T00:00:00Z
 image: "/images/posts/01_Shokupan.jpeg"
 categories: ["bread"]
 authors: ["Wai Ling Ko"]
-tags: ["bread", "shokupan"]
+tags: ["bread", "shokupan", "sweet"]
 draft: false
 ---
 For everyone who loves a bread that is as fluffy as a feather pillow, the Japanese shokupan (milk bread) is the bread to try.
