@@ -1,8 +1,8 @@
 ---
 title: "Making a fluffy Japanese shokupan in 3.5 hours"
 description: "meta description"
-date: 2024-05-30T05:00:00Z
-image: "/images/posts/2_Shokupan.jpeg"
+date: 2024-09-01T00:00:00Z
+image: "/images/posts/01_Shokupan.jpeg"
 categories: ["bread"]
 authors: ["Wai Ling Ko"]
 tags: ["bread", "shokupan"]
@@ -17,13 +17,16 @@ Having tried this Japanese milk bread from the Asian bakeries, I became fixated 
 
 ## The Recipe
 
-After doing research on the internet, I have found many shokupan recipes. Some of these recipes use the tangzhong or yudane method (using a dough starter that you make beforehand). But I also came across this [recipe](https://www.justonecookbook.com/japanese-milk-bread-shokupan/ "Just One Cookbook") by Namiko Chen from Just on cookbook which doesn't use any starter. And she claims that you can create a delicious shokupan in just over 3.5 hours and I was won over by those gorgeous shokupan photos in her recipe.
+After doing research on the internet, I have found many shokupan recipes. Some of these recipes use the tangzhong or yudane method (using a dough starter that you make beforehand). But I also came across this 
+<a href="https://www.justonecookbook.com/japanese-milk-bread-shokupan/" target="_blank"> recipe</a> on "Just One Cookbook"
+by Namiko Chen from Just on cookbook which doesn't use any starter. And she claims that you can create a delicious shokupan in just over 3.5 hours and I was won over by those gorgeous shokupan photos in her recipe.
 
 
 > Japanese Milk Bread is possibly the best version of soft white bread! With a milky-sweet taste and pillowy softness, shokupan is enjoyed daily in Japan as breakfast toast and in sandwiches. Here‘s the perfect milk bread recipe in two styles: rounded top and flat top.
 
 ### My Learnings
-Having made this 1.5 kin shokupan a few times, these are my learnings according to the different steps of Nami's [recipe](https://www.justonecookbook.com/japanese-milk-bread-shokupan/ "Just One Cookbook")
+Having made this 1.5 kin shokupan a few times, these are my learnings according to the different steps of
+<a href="https://www.justonecookbook.com/japanese-milk-bread-shokupan/" target="_blank"> Nami's recipe</a>
 
 #### Measure
 - I measured the honey, salt and sugar out in a bowl, then poured ~180 mls of filtered water boiled just off the kettle over the ingredients. Then mixed everything till it's dissolved. Then added the 70 mls of temperate filtered water on top. Keep stirring the water and measuring the temperature with a cooking thermometer till it drops to 40 &deg;C. Then stir in 1 sachet of instant yeast (7 g). Keep stirring till the yeast has dissolved.

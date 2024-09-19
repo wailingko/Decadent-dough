@@ -1,20 +1,20 @@
 {
   "site": {
-    "title": "Decadent Dough Diaries",
+    "title": "Decadent Dough",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/Decadent-Dough-mixer.png",
+    "favicon": "/images/Decadent-Dough-mixer-copy.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "200",
-    "logo_text": "Decadent Dough Diaries"
+    "logo_text": "Decadent Dough"
   },
 
   "settings": {
     "pagination": 5,
     "summary_length": 100
-  },
+  },  
 
   "metadata": {
     "meta_author": "Themefisher",
@@ -24,12 +24,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 a theme by [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
     "address": "Home in Melbourne, Australia",
-    "email": "info@decadentdoughdiaries.com",
+    "email": "No email yet",
     "phone": "Don't call, just send a message"
   }
 }

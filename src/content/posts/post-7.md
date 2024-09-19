@@ -1,8 +1,8 @@
 ---
 title: "Chloe is the *BEST*"
 description: "meta description"
-date: 2022-04-07T05:00:00Z
-image: "/images/posts/01.jpg"
+date: 2024-03-01T16:56:47+06:00
+image: "/images/posts/06.jpg"
 categories: ["art"]
 authors: ["Mama"]
 tags: ["chloe", "MLP"]

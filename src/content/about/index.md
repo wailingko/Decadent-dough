@@ -14,9 +14,9 @@ what_i_do:
   - title: "Bake"
     description: "Everything tastes better when it's fresh out of the oven."
   
-  - title: "Tell"
+  - title: "Share"
     description: "Learning whilst trying out different recipes at home."
 
 ---
 
-A passionate home baker who is exploring social media to discover delicious baking recipes. I have a slight preference for savoury bakes but somehow end up making sweets that I share with others. I have created this blog to keep track of what I have tried. Enjoy the Decadent Dough Diaries!
+A passionate Dough lover who is continuously exploring social media to discover delicious baking recipes. I have a slight preference for savoury bakes but somehow end up making lots of sweets that I share with others. I have created this blog to keep track of what I have tried. Enjoy the Decadent Dough Diaries!
