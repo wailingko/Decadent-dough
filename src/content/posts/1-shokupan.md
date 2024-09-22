@@ -1,5 +1,5 @@
 ---
-title: "A regular Japanese Shokupan"
+title: "The Shokupan"
 description: "meta description"
 date: 2024-09-01T00:00:00Z
 image: "/images/posts/01_Shokupan.jpeg"
