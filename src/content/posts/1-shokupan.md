@@ -19,7 +19,7 @@ Having tried this Japanese milk bread from the Asian bakeries, I became fixated 
 
 After doing research on the internet, I have found many shokupan recipes. Some of these recipes use the tangzhong or yudane method (using a dough starter that you make beforehand). But I also came across this 
 <a href="https://www.justonecookbook.com/japanese-milk-bread-shokupan/" target="_blank"> recipe</a> on "Just One Cookbook"
-by Namiko Chen from Just on cookbook which doesn't use any starter. And she claims that you can create a delicious shokupan in just over 3.5 hours and I was won over by those gorgeous shokupan photos in her recipe.
+by Namiko Chen from Just one cookbook which doesn't use any starter. And she claims that you can create a delicious shokupan in just over 3.5 hours and I was won over by those gorgeous shokupan photos in her recipe.
 
 
 > Japanese Milk Bread is possibly the best version of soft white bread! With a milky-sweet taste and pillowy softness, shokupan is enjoyed daily in Japan as breakfast toast and in sandwiches. Here‘s the perfect milk bread recipe in two styles: rounded top and flat top.
