@@ -6,7 +6,6 @@ image: "/images/posts/06_Luikse_Wafels1.jpeg"
 authors: ["Wai Ling Ko"]
 tags: ["biscuit", "sweet"]
 categories: ["biscuit"]
-BlogPostTitle: true
 draft: false
 ---
 This weekend I made "Luikse Wafels" (Waffles from Luike/Liege). As a child, we would go shopping in Belgium as we lived close to the Belgian border. As soon, as you would walk into a Belgian city, you would be greated by a smell of sweet buttery delight. If you would follow that fragrance, you would end up at a tiny stall selling "Luikse Wafels". You can tell whether it is a real Luikse Wafel when they have a light caramalized, glossy appearance and a distinctive crunch when you bite into them. It is the  <a href="https://www.bbcmaestro.com/blog/pearl-sugar" target="_blank"> pearl sugar or nib sugar</a>  that gives the waffle that light crunch. I could never only eat one and then regret instantly having devoured a second one.

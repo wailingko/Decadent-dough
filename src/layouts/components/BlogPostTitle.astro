@@ -3,20 +3,9 @@ import FeelbackPulse from "astro-feelback/components/FeelbackPulse.astro";
 import "astro-feelback/styles/feelback.css";
 
 // here you will copy the content-set id from the panel
-const CONTENT_SET_LIKES = "bffb3688-6489-408d-8d5e-52bb675609bc";
+const CONTENT_SET_LIKES = "3670d8dc-d883-4bcf-a425-e9db53b5325c";
 
 interface Props {
     date: Date
     title: string
 }
----
-
-<div class="title-header">
-    <span class="post-date">{Astro.props.date.toDateString()}</span>
-    <h1>{Astro.props.title}</h1>
-
-    <FeelbackPulse contentSetId={CONTENT_SET_LIKES}
-        preset="heart" // <-- shows the Heart icon
-        showCount // <-- shows the likes count
-    />
-</div>
