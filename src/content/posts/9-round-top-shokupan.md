@@ -21,11 +21,10 @@ I followed the same recipe for Japanese milkbread
 with the adjustments I made for the flat-topped shokupan. The only difference was in the final rise stage.
 
 #### The Final Rise
-- I am using the warm microwave for the Final Rise. Check whether the water in the measuring jug still is hot, else reheat the water. Put the loaf pan back in here for the Final Rise.
-- I let the dough rise to about 80% of the loaf pan (2 fingers from the top) before sliding the lid on and putting it into the oven. You can take the dough further than you think.
+- I let the dough rise till the dough just touches the plastic cling film.
 
 #### Bake
-- I find that our oven gets hotter than the average temperature settings in most recipes. I set the oven temperature 10 &deg;C lower: pre-heat at 210&deg;C and bake at 200&deg;C for 26 minutes.
+- I find that our oven gets hotter than the average temperature settings in most recipes. I set the oven temperature 10 &deg;C lower: pre-heat at 200&deg;C and bake at 190&deg;C for 28 minutes.
 
 #### Cool
 - I didn't make any changes to this step.

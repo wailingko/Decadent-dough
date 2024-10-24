@@ -63,5 +63,5 @@ Having made this 1.5 kin shokupan a few times, these are my learnings according 
 Here is an overview of the tools I used for this recipe:
 - Digital Kitchen Scales
 - Cooking Thermometer
-- Stand Mixer: I have this one [Kenwood Chef XL Elite KVL6300S](https://www.kenwoodworld.com/en/chef-xl-elite-kvl6300s/p/KVL6300S "Kenwood Chef XL Elite")
-- 1.5 kin Shokupan Loaf Pan: my loaf pan is from the Asai Shoten store in Tokyo and is a non-stick loaf pan. You can find more information on this loaf pan [here](https://www.justonecookbook.com/japanese-loaf-pans/)
+- Stand Mixer: I have this one <a href=" https://www.kenwoodworld.com/en/chef-xl-elite-kvl6300s/p/KVL6300S" target="_blank"> Kenwood Chef XL Elite </a>
+- 1.5 kin Shokupan Loaf Pan: my loaf pan is from the Asai Shoten store in Tokyo and is a non-stick loaf pan. You can find more information on this loaf pan <a href="https://www.justonecookbook.com/japanese-loaf-pans/" target="_blank"> here </a>
