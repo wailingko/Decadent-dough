@@ -28,10 +28,12 @@ I followed the <a href="https://www.pantrymama.com/how-to-bake-simple-sourdough-
 - I lined to 2 bowls with tea towels covered in flour and used them to shape the bread.
 
 #### Bake
+- Ensure to pre-heat the Dutch oven whilst the oven is heating up.
+- I didn't spray my bread with water, instead I added 4 ice cubes into the Dutch oven with my dough before closing the lid.
 - I set the oven temperature to pre-heat at 235&deg;C, lower the heat to 230&deg;C and bake for 28 minutes with the lid one. Then take the lid off and bake at 210&deg;C for 18 minutes.
 
 #### Cool
-- I let the bread cool down for 2 hours before cutting into it
+- I let the bread cool down for 2 hours before cutting into it.
 
 
 ### Tools
